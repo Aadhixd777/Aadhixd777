@@ -37,11 +37,11 @@ const adithyan = {
 
 <p>
   <a href="mailto:aadhixd204@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-adithyanr703-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=1a1a2e"/>
+    <img src="https://img.shields.io/badge/gmail-Aadhixdteam63-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=1a1a2e"/>
   </a>
   &nbsp;
   <a href="https://adithyan.online">
-    <img src="https://img.shields.io/badge/web-itsadithyan.online-0d1117?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=0d1117&color=1a1a2e"/>
+    <img src="https://img.shields.io/badge/web-adithyan.online-0d1117?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=0d1117&color=1a1a2e"/>
   </a>
 </p>
 
